@@ -12,3 +12,4 @@ digits dataset.
 - **mobile prices**: classification, both binary and multiclass. Each 
 observation is a mobile, that has to be classified in a price range
 based on its features.
+- **wine quality**: classification of wines: predicting quality score.
