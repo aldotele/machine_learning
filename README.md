@@ -11,5 +11,7 @@ on several predictors such as mileage, year, engine size etc.
 digits dataset.
 - **mobile prices**: classification, both binary and multiclass. Each 
 observation is a mobile, that has to be classified in a price range
-based on its features.
+based on predictors such as RAM and battery power.
+- **wish clothes**: binary classification of summer clothes in "successful" (high sales)
+or not (low sales).
 - **wine quality**: classification of wines: predicting quality score.
